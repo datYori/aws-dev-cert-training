@@ -21,11 +21,11 @@
 
 ### Amazon ECS
 
-  - [ ] <a href="http://www.youtube.com/watch?feature=player_embedded&v=qbEPae8YNbs
+  - [ ] Amazon ECS <a href="http://www.youtube.com/watch?feature=player_embedded&v=qbEPae8YNbs
     " target="_blank"><img src="http://img.youtube.com/vi/qbEPae8YNbs/0.jpg" 
     alt="Deep Dive on Amazon Amazon Elastic Container Service (Amazon ECS) youtube video" width="240" height="180" border="10" /></a>
 
-  - [ ] <a href="http://www.youtube.com/watch?feature=player_embedded&v=Hr-zOaBGyEA
+  - [ ] Amazon Fargate <a href="http://www.youtube.com/watch?feature=player_embedded&v=Hr-zOaBGyEA
     " target="_blank"><img src="http://img.youtube.com/vi/Hr-zOaBGyEA/0.jpg" 
     alt="AWS Fargate under the hood youtube video" width="240" height="180" border="10" /></a>
 
