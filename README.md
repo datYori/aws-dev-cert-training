@@ -49,4 +49,4 @@
 
 ### AWS Lambda
 
-- [ ] [AWS Lambda Foundations](https://www.aws.training/Details/eLearning?id=27197)
+- [x] [AWS Lambda Foundations](https://www.aws.training/Details/eLearning?id=27197)
