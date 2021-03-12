@@ -50,3 +50,9 @@
 ### AWS Lambda
 
 - [x] [AWS Lambda Foundations](https://www.aws.training/Details/eLearning?id=27197)
+
+
+### Various serverless perspectives with AWS services
+
+- [ ] [Amazon API Gateway for Serverless Applications](https://www.aws.training/Details/eLearning?id=27199)
+- [ ] [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/Details/eLearning?id=27196)
