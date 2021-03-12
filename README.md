@@ -21,8 +21,13 @@
 
 ### Amazon ECS
 
-  - [ ] Amazon ECS 
-  > <a href="http://www.youtube.com/watch?feature=player_embedded&v=qbEPae8YNbs
+- [ ] Amazon ECS 
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qbEPae8YNbs
     " target="_blank"><img src="http://img.youtube.com/vi/qbEPae8YNbs/0.jpg" 
     alt="Deep Dive on Amazon Amazon Elastic Container Service (Amazon ECS) youtube video" width="240" height="180" border="10" /></a>
 
+### Amazon EKS
+
+- [x] [Amazon Elastic Kubernetes Service (EKS) Primer](https://www.aws.training/Details/eLearning?id=32894)
