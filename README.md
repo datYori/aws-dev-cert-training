@@ -54,5 +54,5 @@
 
 ### Various serverless perspectives with AWS services
 
-- [ ] [Amazon API Gateway for Serverless Applications](https://www.aws.training/Details/eLearning?id=27199)
+- [x] [Amazon API Gateway for Serverless Applications](https://www.aws.training/Details/eLearning?id=27199)
 - [ ] [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/Details/eLearning?id=27196)
