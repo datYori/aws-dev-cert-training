@@ -68,3 +68,14 @@
 ## Infrastructure as Code
 
 - [x] [AWS Cloud dev kit (Workshop)](https://cdkworkshop.com/)
+
+## AWS Developper Tools (if you are giga new to DevOps concepts)
+
+- [x] [Introduction to AWS CodeCommit](https://www.aws.training/Details/Video?id=16347)
+- [x] [Introduction to AWS CodeBuild](https://www.aws.training/Details/Video?id=16508)
+- [x] [Introduction to AWS CodePipeline](https://www.aws.training/Details/Video?id=16441)
+- [x] [Introduction to AWS X-Ray](https://www.aws.training/Details/Video?id=16450)
+
+## Exam Readiness
+
+- [ ] [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://www.aws.training/Details/Curriculum?id=19185)
