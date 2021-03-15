@@ -79,3 +79,20 @@
 ## Exam Readiness
 
 - [ ] [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://www.aws.training/Details/Curriculum?id=19185)
+    > Personal key outcomes 
+    > 5 domains
+      - Deployment (22%)
+      - Security (26%)
+      - Development with AWS (30%)
+      - Refactoring (12%)
+      - Monitoring and Troubleshooting (12%)
+
+### Deployment
+
+#### Key knowledges
+
+- AWS Elastic beanstalk
+- Serverless
+- AWS CloudFormation
+
+#### [Questions samples](./samples/deployment.md)
