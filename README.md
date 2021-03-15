@@ -62,3 +62,9 @@
     > - When you set an attribute for use by TTL, the value you should set for that attribute to result in expiry = epoch timestamp(with unit seconds) after which item can be deleted
     > - Optimistic concurrency control in DynamoDB = Read, transform, conditionally write, retry as required
     > - parameters to DynamoDB Auto Scaling = Min capacity, Max cap, Target utilization
+- [ ] [CI/CD for serverless applications](https://cicd.serverlessworkshops.io/)
+- [ ] [AWS Alien Attack: A Serverless Adventure](https://alienattack.workshop.aws/)
+
+## Infrastructure as Code
+
+- [x] [AWS Cloud dev kit (Workshop)](https://cdkworkshop.com/)
