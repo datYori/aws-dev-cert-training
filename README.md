@@ -55,4 +55,10 @@
 ### Various serverless perspectives with AWS services
 
 - [x] [Amazon API Gateway for Serverless Applications](https://www.aws.training/Details/eLearning?id=27199)
-- [ ] [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/Details/eLearning?id=27196)
+- [x] [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/Details/eLearning?id=27196)
+    > Personal key outcomes 
+    > - basic factor for success with DynamoDB = choosing high cardinality partition key for even item  and request distribution
+    > - Local secondary indexes can only be defined at the time of base table creation – they cannot be deleted without deleting the base table
+    > - When you set an attribute for use by TTL, the value you should set for that attribute to result in expiry = epoch timestamp(with unit seconds) after which item can be deleted
+    > - Optimistic concurrency control in DynamoDB = Read, transform, conditionally write, retry as required
+    > - parameters to DynamoDB Auto Scaling = Min capacity, Max cap, Target utilization
