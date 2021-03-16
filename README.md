@@ -101,3 +101,26 @@
 ### Security
 
 #### [Questions samples](./samples/security.md)
+
+### Development with AWS
+
+#### Key knowledges
+
+- DynamoDB
+- SNS
+- SQS
+- AWS Step functions
+- API Gateway
+- CloudFront
+- ElastiCache
+
+
+#### [Questions samples](./samples/devwithaws.md)
+
+### Refactoring
+
+#### [Questions samples](./samples/refactoring.md)
+
+### Monitoring and Troubleshooting
+
+#### [Questions samples](./samples/monitorandshoot.md)
