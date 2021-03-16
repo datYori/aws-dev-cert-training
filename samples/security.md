@@ -2,11 +2,11 @@
 
 - In AWS, which security aspects are the **customer's responsibility** ? (Choose four answers.)
   1. ✅ Life-cycle management of IAM credentials
-  2. ❌ ~~Decommissioning storage devices~~
-  3. ✅ Security Group and ACL (Access Control List) settings
-  4. ✅ Encryption of EBS (Elastic Block Store) volumes
-  5. ❌ ~~Controlling physical access to compute resources~~
-  6. ✅ Patch management of EC2 instances 
+  1. ❌ ~~Decommissioning storage devices~~
+  1. ✅ Security Group and ACL (Access Control List) settings
+  1. ✅ Encryption of EBS (Elastic Block Store) volumes
+  1. ❌ ~~Controlling physical access to compute resources~~
+  1. ✅ Patch management of EC2 instances 
 
 
 - You created a message queuing application with Amazon SQS and enabled server-side encryption to encrypt the message body sensitive data. Which service will **allow you** to **manage and rotate your encryption keys centrally** ?
