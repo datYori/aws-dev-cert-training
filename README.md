@@ -128,14 +128,13 @@
 
 ## Study tips (from Amazon)
 
-### White books
+### Study notes on FAQs
 
-### FAQs
+- [SQS](./notes.md)
 
-- [SQS](https://aws.amazon.com/fr/sqs/faqs/)
 
 ## STOP !
 
 After going through for more than 1 week and reviewing exam samples I consider this certification useless.
-You can be a good dev and fail at it, and even worse, you can be absolutly new to dev and pass. Non sense
+You can be a good dev and fail at it, and even worse, you can be absolutely new to dev and pass. Non sense
 If you wanna get things done on Amazon, spend time on the particular service you use and get your hands-on it. End of the story
