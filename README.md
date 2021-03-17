@@ -124,3 +124,13 @@
 ### Monitoring and Troubleshooting
 
 #### [Questions samples](./samples/monitorandshoot.md)
+
+
+## Study tips (from Amazon)
+
+### White books
+
+### FAQs
+
+- [SQS](https://aws.amazon.com/fr/sqs/faqs/)
+
